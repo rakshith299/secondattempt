@@ -1,0 +1,23 @@
+.heading1{
+    font-size: 30px;
+    font-family: 'sans-serif';
+    background-color: brown;
+    color: white;
+    width: 20%;
+    border-radius: 10px;
+    padding : 5px;
+}
+
+.heading2{
+    font-size: 20px;
+    font-family: Georgia;
+    color: blueviolet;
+    font-weight: 300;
+    color: gray;
+}
+
+.para{
+    font-size: 25px;
+    font-family: 'Lucida Grande';
+    color: black;
+}
